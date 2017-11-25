@@ -5,23 +5,29 @@ h1 {
 }
 
 h2 {
+  text-align: center;
   color: white;
   font-size: 15;
 }
 p {
+  text-align: center;
   color: white;
   font-size: 14;
 }
 
 li {
+  text-align: center;
   color: white;}
 a {
+  text-align: center;
   color: white;
 }
 h3 {
+  text-align: center;
   color: white;
 
 }
 h4 {
+  text-align: center;
   color: white;
 }
